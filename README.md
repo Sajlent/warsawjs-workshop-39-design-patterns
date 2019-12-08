@@ -1,0 +1,1 @@
+# warsawjs-workshop-39-design-patterns
